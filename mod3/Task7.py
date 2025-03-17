@@ -1,0 +1,1 @@
+s = input().strip(); print(''.join([char for char in s if char in '+0123456789']))

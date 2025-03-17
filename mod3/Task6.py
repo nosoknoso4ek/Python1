@@ -1,0 +1,1 @@
+s = input().strip(); print(len(set(s.split())) != len(s.split()))
